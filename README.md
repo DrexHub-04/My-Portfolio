@@ -25,29 +25,6 @@ This portfolio showcases my projects, technical skills, and development experien
 * Vite
 * CSS
 
-## ⚙ Installation Guide
-
-### Clone the repository
-
-git clone https://github.com/yourusername/portfolio.git
-
-### Install dependencies
-
-npm install
-
-### Run the project
-
-npm run dev
-
-## 🚀 Live Demo
-
-(Add your deployed website link here)
-
-## 📂 Project Structure
-
-src → Components and pages
-public → Static files
-
 ## 📬 Contact
 
 Email: driftamba@gmail.com
