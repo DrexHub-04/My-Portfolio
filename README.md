@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hi! I'm ## Dexter Amba ##, a passionate web developer focused on building modern, responsive, and user-friendly applications. I enjoy developing systems that solve real-world problems and continuously improving my technical skills.
+Hi! I'm Dexter Amba, a passionate web developer focused on building modern, responsive, and user-friendly applications. I enjoy developing systems that solve real-world problems and continuously improving my technical skills.
 
 This portfolio showcases my projects, technical skills, and development experience.
 
