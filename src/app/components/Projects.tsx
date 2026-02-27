@@ -3,26 +3,26 @@ import { ImageWithFallback } from "./figma/ImageWithFallback";
 
 const projects = [
   {
-    title: "Economic Enterprises Unit E-commerce Platform",
-    description: "A full-stack e-commerce solution with real-time inventory management, payment processing, and admin dashboard.",
-    image: "https://images.unsplash.com/photo-1762341121032-510ad9df0ba6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBvZmZpY2UlMjB0ZWNoJTIwZGV2aWNlc3xlbnwxfHx8fDE3NzE0ODUxNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    title: "Economic Enterprises Unit Reservation System and Shopping Platform",
+    description: "A full-stack e-commerce solution with real-time inventory management, payment processing, and admin dashboard for the BukSU Economic Enterpises Unit.",
+    image: "/My-Portfolio/images/project1.png",
     technologies: ["React", "Node.js", "MongoDB", "Express.js"],
     liveUrl: "https://example.com",
+    githubUrl: "https://github.com/DrexHub-04/20241_T154_EEU-s-Reservation-System-and-Shopping-Platform-IPT2-"
+  },
+  {
+    title: "Project Management",
+    description: "A centralized project management system designed to streamline task planning, team collaboration, and workflow tracking. Utilizes modern productivity tools to improve efficiency, monitor progress, and manage project timelines effectively.",
+    image: "public/images/project3.png",
+    technologies: ["Trello", "Monday", "ClickUp", "NotebookLM", "Google Workspace", "Microsoft Office" ],
+    liveUrl: "https://trello.com/b/ThDOW340/coffee-bean-capstone-3-qa-project-management",
     githubUrl: "https://github.com"
   },
   {
-    title: "DevOps Automation Suite",
-    description: "Automated CI/CD pipeline with container orchestration, monitoring, and deployment automation for microservices.",
-    image: "https://images.unsplash.com/photo-1603575448878-868a20723f5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb2RpbmclMjBkZXZlbG9wZXIlMjBsYXB0b3B8ZW58MXx8fHwxNzcxNDg1MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-    technologies: ["Docker", "Kubernetes", "Jenkins", "Terraform", "Prometheus"],
-    liveUrl: "https://example.com",
-    githubUrl: "https://github.com"
-  },
-  {
-    title: "Real-Time Analytics Dashboard",
-    description: "Enterprise analytics platform with real-time data visualization, custom reporting, and predictive insights.",
-    image: "https://images.unsplash.com/photo-1760712491426-ef0e797b8c52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjB3b3Jrc3BhY2UlMjBzZXR1cCUyMHRlY2hub2xvZ3l8ZW58MXx8fHwxNzcxNDg1MTc1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-    technologies: ["Python", "React", "MongoDB", "WebSocket", "D3.js"],
+    title: "City Engineer's Office Inventory Management System (Ongoing)",
+    description: "A web-based inventory management system developed for the City Engineer’s Office to track equipment, monitor stock levels, manage records, and streamline inventory operations through a centralized digital platform.",
+    image: "public/images/project2.png",
+    technologies: ["Typescript", "React", "MongoDB", "Express", "Node.js"],
     liveUrl: "https://example.com",
     githubUrl: "https://github.com"
   }
