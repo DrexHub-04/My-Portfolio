@@ -5,7 +5,7 @@ const projects = [
   {
     title: "Economic Enterprises Unit Reservation System and Shopping Platform",
     description: "A full-stack e-commerce solution with real-time inventory management, payment processing, and admin dashboard for the BukSU Economic Enterpises Unit.",
-    image: "/My-Portfolio/images/project1.png",
+    image: "/images/project1.png",
     technologies: ["React", "Node.js", "MongoDB", "Express.js"],
     liveUrl: "https://example.com",
     githubUrl: "https://github.com/DrexHub-04/20241_T154_EEU-s-Reservation-System-and-Shopping-Platform-IPT2-"
@@ -13,7 +13,7 @@ const projects = [
   {
     title: "Project Management",
     description: "A centralized project management system designed to streamline task planning, team collaboration, and workflow tracking. Utilizes modern productivity tools to improve efficiency, monitor progress, and manage project timelines effectively.",
-    image: "/My-Portfolio/images/project3.png",
+    image: "/images/project3.png",
     technologies: ["Trello", "Monday", "ClickUp", "NotebookLM", "Google Workspace", "Microsoft Office" ],
     liveUrl: "https://trello.com/b/ThDOW340/coffee-bean-capstone-3-qa-project-management",
     githubUrl: "https://github.com"
@@ -21,7 +21,7 @@ const projects = [
   {
     title: "City Engineer's Office Inventory Management System (Ongoing)",
     description: "A web-based inventory management system developed for the City Engineer’s Office to track equipment, monitor stock levels, manage records, and streamline inventory operations through a centralized digital platform.",
-    image: "/My-Portfolio/images/project2.png",
+    image: "/images/project2.png",
     technologies: ["Typescript", "React", "MongoDB", "Express", "Node.js"],
     liveUrl: "https://example.com",
     githubUrl: "https://github.com"
