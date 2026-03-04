@@ -13,7 +13,7 @@ const projects = [
   {
     title: "Project Management",
     description: "A centralized project management system designed to streamline task planning, team collaboration, and workflow tracking. Utilizes modern productivity tools to improve efficiency, monitor progress, and manage project timelines effectively.",
-    image: "public/images/project3.png",
+    image: "/My-Portfolio/images/project3.png",
     technologies: ["Trello", "Monday", "ClickUp", "NotebookLM", "Google Workspace", "Microsoft Office" ],
     liveUrl: "https://trello.com/b/ThDOW340/coffee-bean-capstone-3-qa-project-management",
     githubUrl: "https://github.com"
@@ -21,7 +21,7 @@ const projects = [
   {
     title: "City Engineer's Office Inventory Management System (Ongoing)",
     description: "A web-based inventory management system developed for the City Engineer’s Office to track equipment, monitor stock levels, manage records, and streamline inventory operations through a centralized digital platform.",
-    image: "public/images/project2.png",
+    image: "/My-Portfolio/images/project2.png",
     technologies: ["Typescript", "React", "MongoDB", "Express", "Node.js"],
     liveUrl: "https://example.com",
     githubUrl: "https://github.com"
